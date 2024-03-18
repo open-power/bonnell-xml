@@ -93712,7 +93712,7 @@
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
-		<default></default>
+		<default>TPM</default>
 	</attribute>
 </targetInstance>
 <targetInstance>
